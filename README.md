@@ -2,6 +2,8 @@
 
 Note :- Project is in progress...
 
+// This Project is the part of Cf-stress Project as a mini-Project.
+
 This AutoGrader can be used to test all the golang submissions which are present in a 
 Directory. You have to just specify the absolute path of that Directory. Write Now It will contain
 the Names of the Users/File and the result (Test Cases passed or not)
@@ -11,4 +13,4 @@ the Names of the Users/File and the result (Test Cases passed or not)
 ### What to do next 
  - Make the programme more efficient 
  - return Excel file of students with their scores 
- - replacing all test file with the given one to insure there is no modification of test file from students side to pass hard cases
+ - replacing all test file with the given one to insure there is no modification of test file from students side. 
