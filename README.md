@@ -1,7 +1,5 @@
 # AutoGrader for golang submissions
 
-Note :- Project is in progress...
-
 // This Project is the part of Cf-stress Project as a mini-Project.
 
 This AutoGrader can be used to test all the golang submissions which are present in a 
